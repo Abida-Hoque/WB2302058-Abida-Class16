@@ -1,0 +1,25 @@
+a{
+    /*
+    text-decoration-line: overline; /*line-through underline;/*for no style none
+    text-decoration-style: dashed ;/*dotted double wavy
+    text-decoration-color: red;
+    text-transform: uppercase;/*lowercase capitalize*/
+    /*text-decoration-thikness:2px;
+    */
+    /*shorten css--
+    text-decoration: underline green dotted 3px;/*for no decoration-none*/
+    color: black;
+    text-decoration: none;
+    text-transform: none;
+    /*text-shadow: 2px 2px 5px red,0 0 2px blue,0 0 4px darkgreen;/*can take multiple value*/
+    font-family: 'Castellar',cursive;
+    font-style: italic;
+}
+p{
+    text-indent: 50px;
+    /*letter-spacing: 5px;/*can be negetive*/
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre-wrap;/*only pre is just work for line break and pre-line work for libe break+white space*/
+    font-family: 'Borel',cursive;
+}
